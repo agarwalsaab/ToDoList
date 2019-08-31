@@ -1,0 +1,5 @@
+Name:  todolist
+Table Name:  items
+Rows: 
+  i) id (Primary Key)
+  ii) thing (varchar)
